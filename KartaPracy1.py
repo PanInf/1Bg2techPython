@@ -19,3 +19,20 @@
 
 # a, b, c = map(int,input().split())
 # print(a * b * c)
+
+# Zad 5 
+
+# a = int(input())
+# b = int(input())
+# print(2*(a+b)/5)
+
+# Zad 6
+
+# brutto = int(input())
+# print(brutto / 1.23)
+
+# Zad 7
+
+# a = int(input())
+# b = int(input())
+# print(a % b)
