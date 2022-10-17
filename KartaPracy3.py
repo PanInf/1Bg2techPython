@@ -21,4 +21,6 @@
 # Zad 2
 # for i in range(105, 1000, 15) :
 #     print(i, end=" ")
+
+# Zad 3 
     
